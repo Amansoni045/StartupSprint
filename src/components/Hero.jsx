@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="flex flex-col md:flex-row justify-between items-center px-4 sm:px-6 lg:px-8 pt-44 pb-16 container mx-auto"
+      className="flex flex-col md:flex-row justify-between items-center px-4 sm:px-6 lg:px-8 pt-44 pb-16 w-full"
       style={{
         background: 'linear-gradient(to right, rgba(255, 105, 180, 0.1), rgba(100, 149, 237, 0.1))'
       }}
