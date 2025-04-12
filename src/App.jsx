@@ -2,6 +2,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Hero from './components/hero'
 import CompanyLogo from './components/CompanyLogo'
+import PurposeSection from './components/PurposeSection.jsx'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <Navbar/>
         <Hero />
         <CompanyLogo />
+        <PurposeSection />
       </div>
     </main>
   )
