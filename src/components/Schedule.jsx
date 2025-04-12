@@ -1,11 +1,8 @@
-import scheduleImage from '../assets/stats.webp';
+import scheduleImage from '../assets/stats.webp'
 
 const Schedule = () => {
   return (
-    <section 
-      id="schedule"
-      className="max-w-7xl mx-auto px-4 py-16 md:py-24"
-    >
+    <section className="max-w-7xl mx-auto px-4 py-16 md:py-24">
       <div className="flex flex-col md:flex-row items-center justify-between gap-12 md:gap-24">
         {/* Left side - Image */}
         <div className="w-full md:w-1/2">
@@ -53,4 +50,4 @@ const Schedule = () => {
   )
 }
 
-export default Schedule;
+export default Schedule

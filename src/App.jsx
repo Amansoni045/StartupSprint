@@ -5,6 +5,7 @@ import CompanyLogo from './components/CompanyLogo'
 import PurposeSection from './components/PurposeSection.jsx'
 import Features from './components/Features.jsx'
 import Schedule from './components/Schedule.jsx'
+import Pricing from './components/Pricing.jsx'
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <PurposeSection />
         <Features />
         <Schedule />
+        <Pricing />
       </div>
     </main>
   )
