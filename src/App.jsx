@@ -1,6 +1,6 @@
 import './App.css'
 import Navbar from './components/Navbar'
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import CompanyLogo from './components/CompanyLogo'
 import PurposeSection from './components/PurposeSection.jsx'
 import Features from './components/Features.jsx'
