@@ -6,6 +6,7 @@ import PurposeSection from './components/PurposeSection.jsx'
 import Features from './components/Features.jsx'
 import Schedule from './components/Schedule.jsx'
 import Pricing from './components/Pricing.jsx'
+import Services from './components/Services.jsx'
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Features />
         <Schedule />
         <Pricing />
+        <Services />
       </div>
     </main>
   )
