@@ -64,8 +64,7 @@ const Footer = () => {
 
         {/* Bottom Text */}
         <div className="border-t border-gray-300 mt-12 pt-6 flex flex-col sm:flex-row justify-between items-center text-sm text-gray-500">
-          <p>© {new Date().getFullYear()} codetutorbd.com</p>
-          <p>Created by Md Al Mamun</p>
+          <p>Created by Aman Soni</p>
         </div>
       </div>
     </footer>
