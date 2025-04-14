@@ -9,6 +9,7 @@ import Pricing from './components/Pricing.jsx'
 import Services from './components/Services.jsx'
 import Testimonials from './components/Testimonials.jsx'
 import Newsletter from './components/Newsletter.jsx'
+import Footer from './components/Footer.jsx'
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
         <Services />
         <Testimonials />
         <Newsletter />
+        <Footer />
       </div>
     </main>
   )
