@@ -8,6 +8,7 @@ import Schedule from './components/Schedule.jsx'
 import Pricing from './components/Pricing.jsx'
 import Services from './components/Services.jsx'
 import Testimonials from './components/Testimonials.jsx'
+import Newsletter from './components/Newsletter.jsx'
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
         <Pricing />
         <Services />
         <Testimonials />
+        <Newsletter />
       </div>
     </main>
   )
