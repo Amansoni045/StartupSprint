@@ -7,6 +7,7 @@ import Features from './components/Features.jsx'
 import Schedule from './components/Schedule.jsx'
 import Pricing from './components/Pricing.jsx'
 import Services from './components/Services.jsx'
+import Testimonials from './components/Testimonials.jsx'
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Schedule />
         <Pricing />
         <Services />
+        <Testimonials />
       </div>
     </main>
   )
